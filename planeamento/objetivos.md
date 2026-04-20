@@ -1,5 +1,7 @@
 # Objetivos
 
-Aqui ficam os objetivos do projeto.
+Aqui serão apresentados os objetivos definidos.
 
 * Objetivo 1.
+* Objetivo dois.
+* Objetivo três.
