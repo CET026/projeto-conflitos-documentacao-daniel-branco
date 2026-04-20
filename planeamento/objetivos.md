@@ -1,6 +1,6 @@
 # Objetivos
 
-Aqui ficam os objetivos planeados para o projeto.
+Aqui serão apresentados os objetivos definidos.
 
 * Objetivo 1.
 * Objetivo 2.
